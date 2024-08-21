@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vaibav03/Leetcode/tree/master/0279-perfect-squares) |
 | [0650-2-keys-keyboard](https://github.com/vaibav03/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0204-count-primes](https://github.com/vaibav03/Leetcode/tree/master/0204-count-primes) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
