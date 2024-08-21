@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/vaibav03/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Hash Table
 |  |
@@ -45,17 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
+| [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/vaibav03/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vaibav03/Leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vaibav03/Leetcode/tree/master/0204-count-primes) |
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/vaibav03/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Game Theory
 |  |
