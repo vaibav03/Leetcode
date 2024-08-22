@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vaibav03/Leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/vaibav03/Leetcode/tree/master/0279-perfect-squares) |
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
 ## Array
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
+| [0200-number-of-islands](https://github.com/vaibav03/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vaibav03/Leetcode/tree/master/0204-count-primes) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vaibav03/Leetcode/tree/master/0200-number-of-islands) |
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
 ## Sorting
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/vaibav03/Leetcode/tree/master/0476-number-complement) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaibav03/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaibav03/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
