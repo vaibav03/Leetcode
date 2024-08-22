@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/vaibav03/Leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
