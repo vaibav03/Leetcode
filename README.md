@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/vaibav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/vaibav03/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaibav03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/vaibav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
 ## Brainteaser
 |  |
