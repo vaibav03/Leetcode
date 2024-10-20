@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vaibav03/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vaibav03/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 ## Depth-First Search
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vaibav03/Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/vaibav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
 ## Brainteaser
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/vaibav03/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/vaibav03/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
