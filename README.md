@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
+| [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/vaibav03/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vaibav03/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibav03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
+| [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
 ## Bit Manipulation
 |  |
 | ------- |
