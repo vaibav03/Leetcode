@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/vaibav03/Leetcode/tree/master/0312-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/vaibav03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibav03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/vaibav03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibav03/Leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
