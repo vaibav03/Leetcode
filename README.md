@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vaibav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vaibav03/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vaibav03/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Brainteaser
 |  |
 | ------- |
