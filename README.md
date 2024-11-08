@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
+| [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/vaibav03/Leetcode/tree/master/0476-number-complement) |
+| [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vaibav03/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vaibav03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
