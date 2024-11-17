@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/vaibav03/Leetcode/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/vaibav03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Greedy
@@ -279,12 +282,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vaibav03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vaibav03/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibav03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -295,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/vaibav03/Leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vaibav03/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
