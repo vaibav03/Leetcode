@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibav03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/vaibav03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/vaibav03/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vaibav03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Graph
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibav03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vaibav03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
