@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vaibav03/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibav03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/vaibav03/Leetcode/tree/master/0605-can-place-flowers) |
+| [2089-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2716-prime-subtraction-operation](https://github.com/vaibav03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Depth-First Search
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/vaibav03/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vaibav03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Graph
 |  |
