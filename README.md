@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibav03/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vaibav03/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/vaibav03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/vaibav03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibav03/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibav03/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/vaibav03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibav03/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibav03/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
