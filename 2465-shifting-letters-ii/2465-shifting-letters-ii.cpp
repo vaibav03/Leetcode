@@ -2,34 +2,28 @@ class Solution {
 public:
     string shiftingLetters(string s, vector<vector<int>>& shifts) {
         int n = s.size();
-        vector<int> diffArray(
-            n, 0);  
-
-        for (auto shift : shifts) {
-            if (shift[2] == 1) {       
-                diffArray[shift[0]]++; 
-                if (shift[1] + 1 < n) {
-                    diffArray[shift[1] +1]--;  
-                }
-            } else {                   
-                diffArray[shift[0]]--; 
-                if (shift[1] + 1 < n) {
-                    diffArray[shift[1] +1]++;  
-                }
+        vector<int> pre(n,0);
+        for(int i=0;i<shifts.size();i++){
+            if(shifts[i][2]==1)
+            {
+                pre[ shifts[i][0] ] += 1;
+                if( shifts[i][1]+1 < s.size() )
+                pre[shifts[i][1]+1] -= 1;
             }
+            else{
+                pre[shifts[i][0]] -= 1;
+                if( shifts[i][1]+1 < n )
+                pre[shifts[i][1] + 1] += 1;
+            } 
         }
-
-        string result(n, ' ');
-        int numberOfShifts = 0;
-
-        for (int i = 0; i < s.size(); i++) {
-            numberOfShifts = (numberOfShifts + diffArray[i]) % 26;  
-            if (numberOfShifts < 0)
-                numberOfShifts +=26; 
-
-            result[i] = 'a' + (s[i] - 'a' + numberOfShifts) % 26;
+        for(int i=0;i<pre.size();i++){
+            if(i!=0){
+                pre[i]+=pre[i-1];
+            }
+            int x = (s[i] - 'a' + pre[i])%26;
+            if (x < 0) x += 26; 
+            s[i] = 'a'+ x;
         }
-
-        return result;
+        return s;
     }
 };
