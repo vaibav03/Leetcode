@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/vaibav03/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/vaibav03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
 |  |
 | ------- |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/vaibav03/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/vaibav03/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/vaibav03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vaibav03/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/vaibav03/Leetcode/tree/master/3189-find-champion-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vaibav03/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vaibav03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/vaibav03/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/vaibav03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## String
 |  |
 | ------- |
