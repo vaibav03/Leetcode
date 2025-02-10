@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vaibav03/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/vaibav03/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/vaibav03/Leetcode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/vaibav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/vaibav03/Leetcode/tree/master/0312-burst-balloons) |
 | [0407-trapping-rain-water-ii](https://github.com/vaibav03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vaibav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vaibav03/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
