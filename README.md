@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/vaibav03/Leetcode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/vaibav03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/vaibav03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/vaibav03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vaibav03/Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/vaibav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
+| [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0952-word-subsets](https://github.com/vaibav03/Leetcode/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vaibav03/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1396-count-servers-that-communicate](https://github.com/vaibav03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -546,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/vaibav03/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
