@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vaibav03/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2716-prime-subtraction-operation](https://github.com/vaibav03/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/vaibav03/Leetcode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/vaibav03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vaibav03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibav03/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1876-map-of-highest-peak](https://github.com/vaibav03/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vaibav03/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vaibav03/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibav03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vaibav03/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibav03/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/vaibav03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
