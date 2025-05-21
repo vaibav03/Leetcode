@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/vaibav03/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/vaibav03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3374-count-alternating-subarrays](https://github.com/vaibav03/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/vaibav03/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibav03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vaibav03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/vaibav03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vaibav03/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3374-count-alternating-subarrays](https://github.com/vaibav03/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vaibav03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/vaibav03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibav03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vaibav03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/vaibav03/Leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
