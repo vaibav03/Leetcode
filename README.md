@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/vaibav03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/vaibav03/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibav03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibav03/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vaibav03/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/vaibav03/Leetcode/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/vaibav03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vaibav03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibav03/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Simulation
 |  |
 | ------- |
