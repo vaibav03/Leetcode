@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/vaibav03/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Math
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/vaibav03/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/vaibav03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vaibav03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0337-house-robber-iii](https://github.com/vaibav03/Leetcode/tree/master/0337-house-robber-iii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibav03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
