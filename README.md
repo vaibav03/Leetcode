@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/vaibav03/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibav03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vaibav03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibav03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/vaibav03/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/vaibav03/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/vaibav03/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/vaibav03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vaibav03/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vaibav03/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/vaibav03/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/vaibav03/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/vaibav03/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## String
 |  |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/vaibav03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/vaibav03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibav03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -640,4 +645,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/vaibav03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vaibav03/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
