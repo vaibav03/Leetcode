@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/vaibav03/Leetcode/tree/master/0279-perfect-squares) |
 | [0312-burst-balloons](https://github.com/vaibav03/Leetcode/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/vaibav03/Leetcode/tree/master/0337-house-robber-iii) |
+| [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/vaibav03/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vaibav03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/vaibav03/Leetcode/tree/master/0312-burst-balloons) |
 | [0407-trapping-rain-water-ii](https://github.com/vaibav03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibav03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/vaibav03/Leetcode/tree/master/0605-can-place-flowers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vaibav03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
