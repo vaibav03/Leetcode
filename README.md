@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibav03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vaibav03/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Heap (Priority Queue)
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vaibav03/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vaibav03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/vaibav03/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Depth-First Search
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibav03/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vaibav03/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/vaibav03/Leetcode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Brainteaser
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vaibav03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibav03/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/vaibav03/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
