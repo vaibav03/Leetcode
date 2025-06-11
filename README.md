@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibav03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vaibav03/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vaibav03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/vaibav03/Leetcode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vaibav03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibav03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vaibav03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
 | ------- |
