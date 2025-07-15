@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vaibav03/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vaibav03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vaibav03/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vaibav03/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Enumeration
 |  |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/vaibav03/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vaibav03/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vaibav03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vaibav03/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vaibav03/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
 | ------- |
