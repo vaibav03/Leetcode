@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibav03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaibav03/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/vaibav03/Leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vaibav03/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vaibav03/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vaibav03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/vaibav03/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vaibav03/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/vaibav03/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vaibav03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vaibav03/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
