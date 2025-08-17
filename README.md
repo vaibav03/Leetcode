@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vaibav03/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vaibav03/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
