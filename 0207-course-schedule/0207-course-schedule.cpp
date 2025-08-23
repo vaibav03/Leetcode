@@ -1,31 +1,44 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(n,vector<int>(0));
-        vector<int> indegree(n,0);
-    for(auto i : prerequisites){
-        adj[i[1]].push_back(i[0]);
-        indegree[i[0]]++;
+    bool doesCycleExist(const vector<vector<int>>& adj,
+                        vector<int> &vis,
+                        int v,
+                        vector<int> &parent) {
+        parent[v] = 1;
+
+        for (int x : adj[v]) {
+            if (parent[x]) {            
+                return true;            
+            }
+            if (!vis[x]) {              
+                vis[x] = 1;
+                if (doesCycleExist(adj, vis, x, parent)) {
+                    return true;       
+                }
+            }
+        }
+
+        parent[v] = 0; 
+        return false;
     }
-    
-    queue<int> q;
-    for(int i=0;i<n;i++){
-        if(indegree[i]==0)
-         q.push(i);   
-        
-    }
- int cnt{};
-    while(!q.empty()){
-    int node = q.front();
-    q.pop();
-    cnt++;
-    for(auto i: adj[node]){
-        indegree[i]--;
-        if(!indegree[i])
-         q.push(i);
-    }
-    }
-    if(cnt==n) return true;
-    else return 0;
+
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        for (auto &p : prerequisites) {
+            adj[p[1]].push_back(p[0]);  
+        }
+
+        vector<int> vis(numCourses, 0);
+        vector<int> parent(numCourses, 0); 
+
+        for (int i = 0; i < numCourses; ++i) {
+            if (!vis[i]) {
+                vis[i] = 1;
+                if (doesCycleExist(adj, vis, i, parent)) {
+                    return false;       
+                }
+            }
+        }
+        return true; 
     }
 };
