@@ -4,11 +4,14 @@ public:
         if(n<0) return 0;
         if(n==0) return 1;
         vector<int> dp(n+1);
-        dp[0] = dp[1] = 1;
+        int ans=1,curr,prev;
+        prev = curr = 1;
 
         for(int i=2;i<=n;i++){
-            dp[i] = dp[i-1]+dp[i-2];
+            ans = curr + prev;
+            prev = curr;
+            curr = ans;
         }
-        return dp[n];
+        return ans;
     }
 };
