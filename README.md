@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vaibav03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vaibav03/Leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vaibav03/Leetcode/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/vaibav03/Leetcode/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vaibav03/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/vaibav03/Leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibav03/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vaibav03/Leetcode/tree/master/0312-burst-balloons) |
 | [0407-trapping-rain-water-ii](https://github.com/vaibav03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/vaibav03/Leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
