@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vaibav03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/vaibav03/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vaibav03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vaibav03/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vaibav03/Leetcode/tree/master/0312-burst-balloons) |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/vaibav03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/vaibav03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/vaibav03/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -650,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaibav03/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibav03/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
@@ -738,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
@@ -758,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibav03/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
