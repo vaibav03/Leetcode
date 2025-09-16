@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/vaibav03/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibav03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vaibav03/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/vaibav03/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibav03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/vaibav03/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/vaibav03/Leetcode/tree/master/0198-house-robber) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vaibav03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/vaibav03/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/vaibav03/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibav03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vaibav03/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/vaibav03/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/vaibav03/Leetcode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/vaibav03/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/vaibav03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/vaibav03/Leetcode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/vaibav03/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/vaibav03/Leetcode/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vaibav03/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -786,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vaibav03/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/vaibav03/Leetcode/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Geometry
 |  |
@@ -804,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vaibav03/Leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/vaibav03/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/vaibav03/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/vaibav03/Leetcode/tree/master/0692-top-k-frequent-words) |
