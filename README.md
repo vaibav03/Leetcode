@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibav03/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/vaibav03/Leetcode/tree/master/0337-house-robber-iii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/vaibav03/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/vaibav03/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vaibav03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/vaibav03/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/vaibav03/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/vaibav03/Leetcode/tree/master/0605-can-place-flowers) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/vaibav03/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0494-target-sum](https://github.com/vaibav03/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/vaibav03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vaibav03/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
