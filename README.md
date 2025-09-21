@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vaibav03/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/vaibav03/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/vaibav03/Leetcode/tree/master/2087-confirmation-rate) |
+| [2110-employees-with-missing-information](https://github.com/vaibav03/Leetcode/tree/master/2110-employees-with-missing-information) |
 | [3816-dna-pattern-recognition](https://github.com/vaibav03/Leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Queue
 |  |
