@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vaibav03/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vaibav03/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/vaibav03/Leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/vaibav03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vaibav03/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vaibav03/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vaibav03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/vaibav03/Leetcode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/vaibav03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vaibav03/Leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vaibav03/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/vaibav03/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vaibav03/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibav03/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vaibav03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/vaibav03/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vaibav03/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibav03/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibav03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/vaibav03/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/vaibav03/Leetcode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/vaibav03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/vaibav03/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vaibav03/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/vaibav03/Leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/vaibav03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
