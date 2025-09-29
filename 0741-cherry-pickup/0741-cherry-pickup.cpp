@@ -1,36 +1,42 @@
-
 class Solution {
 public:
-    int n, m;
-    vector<vector<vector<int>>> dp;
 
-    int solve(vector<vector<int>>& grid, int r1, int c1, int c2) {
-        int r2 = r1 + c1 - c2;  // because steps are equal
-        if (r1 >= n || c1 >= m || r2 >= n || c2 >= m) return -1e8;
-        if (grid[r1][c1] == -1 || grid[r2][c2] == -1) return -1e8;
+int cherryPickup(vector<vector<int>>& grid) {
+    int n = grid.size(), m = grid[0].size();
+    vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(m+1, vector<int>(m+1, INT_MIN)));
 
-        // reached destination
-        if (r1 == n-1 && c1 == m-1 && r2==n-1) return grid[r1][c1];
+    // base case
+    if (grid[0][0] == -1) return 0;
+    dp[1][1][1] = grid[0][0];
 
-        if (dp[r1][c1][c2] != INT_MIN) return dp[r1][c1][c2];
+    for (int i=1; i<=n; i++) {
+        for (int j=1; j<=m; j++) {
+            for (int k=1; k<=m; k++) {
+                if (i+j-k < 1 || i+j-k > n || 
+                    grid[i-1][j-1] == -1 || 
+                    grid[i+j-k-1][k-1] == -1) continue;
 
-        int cherries = grid[r1][c1];
-        if (c1 != c2 || r1 != r2) cherries += grid[r2][c2]; // avoid double count
+                if (i==1 && j==1 && k==1) continue; // already initialized
 
-        int best = max({
-            solve(grid, r1+1, c1, c2),     // r1 down, r2 down
-            solve(grid, r1, c1+1, c2+1),   // r1 right, r2 right
-            solve(grid, r1+1, c1, c2+1),   // r1 down, r2 right
-            solve(grid, r1, c1+1, c2)      // r1 right, r2 down
-        });
+                int best = max({
+                    dp[i-1][j][k-1],
+                    dp[i][j-1][k],
+                    dp[i-1][j][k],
+                    dp[i][j-1][k-1]
+                });
 
-        return dp[r1][c1][c2] = cherries + best;
+                if (best < 0) continue;
+
+                if (j == k) 
+                    dp[i][j][k] = best + grid[i-1][j-1];
+                else 
+                    dp[i][j][k] = best + grid[i-1][j-1] + grid[i+j-k-1][k-1];
+            }
+        }
     }
 
-    int cherryPickup(vector<vector<int>>& grid) {
-        n = grid.size();
-        m = grid[0].size();
-        dp.assign(n, vector<vector<int>>(m, vector<int>(m, INT_MIN)));
-        return max(0, solve(grid, 0, 0, 0));
-    }
+    return max(0, dp[n][m][m]);
+}
+
+
 };
