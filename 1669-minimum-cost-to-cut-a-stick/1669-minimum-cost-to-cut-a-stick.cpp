@@ -1,19 +1,5 @@
 class Solution {
 public:
-    int solve(vector<int> &cuts, int low, int high, vector<vector<int>> &dp) {
-        if (high - low <= 1) return 0;  
-
-        if (dp[low][high] != -1) return dp[low][high];
-
-        int ans = INT_MAX;
-        for (int i = low + 1; i < high; i++) {  
-            int cost = (cuts[high] - cuts[low]) +
-                       solve(cuts, low, i, dp) +
-                       solve(cuts, i, high, dp);
-            ans = min(ans, cost);
-        }
-        return dp[low][high] = (ans == INT_MAX ? 0 : ans);
-    }
 
     int minCost(int n, vector<int>& cuts) {
         cuts.push_back(0);
@@ -21,8 +7,18 @@ public:
         sort(cuts.begin(), cuts.end());
 
         int size = cuts.size();
-        vector<vector<int>> dp(size, vector<int>(size, -1));
+        vector<vector<int>> dp(size, vector<int>(size, 0));
 
-        return solve(cuts, 0, size - 1, dp);
+        for(int low =size-1;low>=0;low--){
+            for(int high = low+1;high<size;high++){
+                if(high-low == 1){ dp[low][high] = 0; continue;}
+                int ans = INT_MAX;
+                for(int i=low+1;i<high;i++){
+                    ans = min(ans, cuts[high] - cuts[low] + dp[low][i] + dp[i][high]);
+                }
+                dp[low][high] = ans;
+            }
+        }
+        return dp[0][size-1];
     }
 };
