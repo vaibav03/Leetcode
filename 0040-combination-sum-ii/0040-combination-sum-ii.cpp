@@ -1,39 +1,25 @@
 class Solution {
 public:
-   void c2(vector<int> candidates,int ind,int target, vector<int> &res,vector<vector<int>> &ans){
-        if(target == 0 ) {
-            ans.push_back(res);
-            return ;
-            }
-            
-        if(ind>=candidates.size()) return;  
+    vector<vector<int>> dp;
+    void solve(vector<int>& candidates,int target,int ind,vector<int> &curr){
+        if(target == 0){ dp.push_back(curr); return;}
 
-        if(candidates[ind]<=target){
-            res.push_back(candidates[ind]);   
-            cout<<ind<<" ";
-            for(int i=0;i<res.size();i++){
-                cout<<res[i]<<" ";
-            }       
-            cout<<endl;
-
-            c2(candidates,ind+1,target - candidates[ind],res,ans);
-            res.pop_back();
-        }else{
-            return;
+        if(ind==candidates.size()) return;
+        if(target>=candidates[ind]){
+            curr.push_back(candidates[ind]);
+            int num = candidates[ind];
+            // while(ind<candidates.size() && candidates[ind]==num) ind++;
+            solve(candidates,target-num,ind +1,curr);
+            curr.pop_back();
         }
-
-            while(ind<candidates.size()-1 && candidates[ind]==candidates[ind+1]) {
-            ind++;
-            }
-             c2(candidates,ind+1,target,res,ans);
+        while(ind<candidates.size()-1 && candidates[ind]==candidates[ind+1]) ind++;
+        solve(candidates,target,ind+1,curr);
     }
-
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(),candidates.end());
-        vector<int> res;
-        vector<vector<int>> ans;
-        c2(candidates,0,target,res,ans);
+        vector<int> curr;
+        solve(candidates,target,0,curr);
+        return dp;
 
-        return ans;
     }
 };
