@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vaibav03/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vaibav03/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/vaibav03/Leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/vaibav03/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibav03/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vaibav03/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vaibav03/Leetcode/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/vaibav03/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0476-number-complement](https://github.com/vaibav03/Leetcode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vaibav03/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/vaibav03/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vaibav03/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/vaibav03/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/vaibav03/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/vaibav03/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/vaibav03/Leetcode/tree/master/1160-letter-tile-possibilities) |
