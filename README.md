@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/vaibav03/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vaibav03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/vaibav03/Leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/vaibav03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/vaibav03/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/vaibav03/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/vaibav03/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibav03/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/vaibav03/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vaibav03/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/vaibav03/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/vaibav03/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/vaibav03/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/vaibav03/Leetcode/tree/master/0494-target-sum) |
