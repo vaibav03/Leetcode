@@ -4,7 +4,7 @@ public:
     vector<vector<char>> ans;
 
     void solve(vector<vector<char>>& board, int i, int j) {
-        if (!ans.empty()) return; // stop once solved
+        if (!ans.empty()) return; 
         if (i == 9) { 
             ans = board;
             return;
