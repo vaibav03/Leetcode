@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/vaibav03/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/vaibav03/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vaibav03/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/vaibav03/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/vaibav03/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1129-longest-string-chain](https://github.com/vaibav03/Leetcode/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/vaibav03/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/vaibav03/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/vaibav03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/vaibav03/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vaibav03/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
