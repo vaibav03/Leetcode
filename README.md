@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vaibav03/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3374-count-alternating-subarrays](https://github.com/vaibav03/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vaibav03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vaibav03/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vaibav03/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vaibav03/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/vaibav03/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2465-shifting-letters-ii](https://github.com/vaibav03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibav03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vaibav03/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3639-zero-array-transformation-i](https://github.com/vaibav03/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
