@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vaibav03/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/vaibav03/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vaibav03/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibav03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/vaibav03/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Matrix
 |  |
 | ------- |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/vaibav03/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vaibav03/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vaibav03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/vaibav03/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vaibav03/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaibav03/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3908-minimum-time-for-k-connected-components](https://github.com/vaibav03/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Database
 |  |
 | ------- |
