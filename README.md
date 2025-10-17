@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/vaibav03/Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vaibav03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2716-prime-subtraction-operation](https://github.com/vaibav03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibav03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/vaibav03/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vaibav03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibav03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibav03/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibav03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vaibav03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibav03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaibav03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vaibav03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2716-prime-subtraction-operation](https://github.com/vaibav03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
