@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/vaibav03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/vaibav03/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/vaibav03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vaibav03/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/vaibav03/Leetcode/tree/master/0337-house-robber-iii) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/vaibav03/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibav03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vaibav03/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/vaibav03/Leetcode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/vaibav03/Leetcode/tree/master/0337-house-robber-iii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibav03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vaibav03/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/vaibav03/Leetcode/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
