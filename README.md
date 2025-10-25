@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vaibav03/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/vaibav03/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/vaibav03/Leetcode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vaibav03/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
