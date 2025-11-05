@@ -499,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/vaibav03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vaibav03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibav03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibav03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vaibav03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vaibav03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibav03/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibav03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/vaibav03/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vaibav03/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/vaibav03/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2573-remove-nodes-from-linked-list](https://github.com/vaibav03/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/vaibav03/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -828,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibav03/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibav03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/vaibav03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
