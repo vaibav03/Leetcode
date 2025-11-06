@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibav03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vaibav03/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibav03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/vaibav03/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibav03/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibav03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/vaibav03/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vaibav03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibav03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/vaibav03/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaibav03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vaibav03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibav03/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/vaibav03/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibav03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vaibav03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vaibav03/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/vaibav03/Leetcode/tree/master/3447-clear-digits) |
