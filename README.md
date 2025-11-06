@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vaibav03/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vaibav03/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/vaibav03/Leetcode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vaibav03/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vaibav03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/vaibav03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1917-maximum-average-pass-ratio](https://github.com/vaibav03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibav03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vaibav03/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1803-average-waiting-time](https://github.com/vaibav03/Leetcode/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vaibav03/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/vaibav03/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/vaibav03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vaibav03/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1917-maximum-average-pass-ratio](https://github.com/vaibav03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vaibav03/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vaibav03/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibav03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -925,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/vaibav03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/vaibav03/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
