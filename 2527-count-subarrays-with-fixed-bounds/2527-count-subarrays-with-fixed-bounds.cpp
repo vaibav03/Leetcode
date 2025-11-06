@@ -1,27 +1,16 @@
 class Solution {
 public:
     long long countSubarrays(vector<int>& nums, int minK, int maxK) {
-        deque<int> dq_min,dq_max;
-        long long  i=0,start=0,ans{};
-        while(i<nums.size()){
-                if(nums[i]<minK || nums[i]>maxK){
-                    start = i+1;
-                    dq_min.clear();
-                    dq_max.clear();
-                    i++;
-                    continue;
-                }
+        int mini = -1,maxi = -1,badi = -1;
+        long long ans = 0;
+        for(int i=0;i<nums.size();i++){
+            mini = (nums[i] == minK) ? i : mini;
+            maxi = (nums[i] == maxK) ? i : maxi;
+            if(nums[i] >= minK && nums[i]<=maxK ){
+              ans+= 1ll*max(0,min(mini,maxi) - badi);
+             }
+            else badi = i;
 
-                while (!dq_min.empty() && nums[dq_min.back()] >= nums[i]) dq_min.pop_back();
-                dq_min.push_back(i);
-
-                while (!dq_max.empty() && nums[dq_max.back()] <= nums[i]) dq_max.pop_back();
-                dq_max.push_back(i);
-
-                if(nums[dq_min.front()]==minK && nums[dq_max.front()]==maxK){
-                    ans+=(min(dq_min.front(),dq_max.front()) - start +1);
-                }
-                i++;
         }
         return ans;
     }
