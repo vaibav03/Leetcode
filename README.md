@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibav03/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/vaibav03/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/vaibav03/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/vaibav03/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vaibav03/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/vaibav03/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/vaibav03/Leetcode/tree/master/0139-word-break) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vaibav03/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaibav03/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vaibav03/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vaibav03/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vaibav03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vaibav03/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/vaibav03/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/vaibav03/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/vaibav03/Leetcode/tree/master/0242-valid-anagram) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vaibav03/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/vaibav03/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vaibav03/Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/vaibav03/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vaibav03/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/vaibav03/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/vaibav03/Leetcode/tree/master/0115-distinct-subsequences) |
