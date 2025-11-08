@@ -1,21 +1,26 @@
 class Solution {
 public:
-    int numDistinct(string s, string t) {
-        vector<vector<double>> dp(s.size()+1,vector<double>(t.size()+1,0));
-
-        for(int i=0;i<=s.size();i++)
-        dp[i][0]=1;
-
-        for(int i=1;i<=s.size();i++){
-            for(int j=1;j<=t.size();j++){
-                double  take{},nottake{};
-                if(s[i-1]==t[j-1])
-                take = dp[i-1][j-1];
-
-                nottake = dp[i-1][j];
-                dp[i][j] = take+nottake;
-            }
+    int ans{};
+    int  subseq(string &s,string &t,int i,int j,vector<vector<int>> &dp){
+        if(j == -1) {
+            ans++;
+            return 1;
+        }else if(i == -1) {
+            return 0 ;
         }
-    return (int)dp[s.size()][t.size()];
+
+        if(dp[i][j]!=-1) {
+            return dp[i][j];
+        }
+        if(s[i] == t[j]) {
+            return dp[i][j] = subseq(s,t,i-1,j-1,dp) + subseq(s,t,i-1,j,dp);;
+        } else{ 
+             return dp[i][j] = subseq(s,t,i-1,j,dp);
+         }
+    }
+    int numDistinct(string s, string t) {
+        int n = s.size(),m = t.size();
+        vector<vector<int>> dp(n+1,vector<int>(m+1,-1));
+        return subseq(s,t,s.size()-1,t.size()-1,dp);
     }
 };
