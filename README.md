@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibav03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vaibav03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/vaibav03/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2465-shifting-letters-ii](https://github.com/vaibav03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibav03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vaibav03/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vaibav03/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vaibav03/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vaibav03/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vaibav03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
