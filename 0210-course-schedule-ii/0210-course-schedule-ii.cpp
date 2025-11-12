@@ -1,31 +1,37 @@
 class Solution {
 public:
-    vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
-    vector<vector<int>> adj(n,vector<int>(0));
-    vector<int> indegree(n,0);
-    for(auto i : prerequisites){
-        adj[i[1]].push_back(i[0]);
-        indegree[i[0]]++;
-    }
-    
-    queue<int> q;
-    for(int i=0;i<n;i++){
-        if(indegree[i]==0)
-         q.push(i);   
-        
-    }
     vector<int> ans;
-    while(!q.empty()){
-    int node = q.front();
-    q.pop();
-    ans.push_back(node);
-    for(auto i: adj[node]){
-        indegree[i]--;
-        if(!indegree[i])
-         q.push(i);
+    bool isCycle(vector<vector<int>> &adj,vector<int> &vis , int v){
+        vis[v] = 2;
+        for(auto neigh : adj[v]){
+            if(vis[neigh] == 2) return true;
+            else if(!vis[neigh] && isCycle(adj,vis,neigh) == true) return true; 
+        }
+        vis[v] = 1;
+        return false;
     }
+    void toposort(vector<vector<int>> &adj,vector<int> &vis , int v){
+        vis[v] = 1;
+        for(auto neigh : adj[v]){
+            if(!vis[neigh]) toposort(adj,vis,neigh);
+        }
+        ans.push_back(v);
     }
-    if(ans.size()==n) return ans;
-    else return {};
+    vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        vector<int> vis(numCourses,0);
+        for(auto prereq : prerequisites){
+            adj[prereq[0]].push_back(prereq[1]);
+        }
+
+        for(int i=0;i<numCourses;i++){
+            if(!vis[i] && isCycle(adj,vis,i)) return {}; 
+        }
+        for(int i=0;i<numCourses;i++) vis[i] = 0;
+
+        for(int i=0;i<numCourses;i++){
+            if(!vis[i]) toposort(adj,vis,i);
+        }
+        return ans;  
     }
 };
