@@ -1,44 +1,25 @@
 class Solution {
 public:
-    bool doesCycleExist(const vector<vector<int>>& adj,
-                        vector<int> &vis,
-                        int v,
-                        vector<int> &parent) {
-        parent[v] = 1;
-
-        for (int x : adj[v]) {
-            if (parent[x]) {            
-                return true;            
-            }
-            if (!vis[x]) {              
-                vis[x] = 1;
-                if (doesCycleExist(adj, vis, x, parent)) {
-                    return true;       
-                }
-            }
+    bool isCycle(vector<vector<int>> &adj,vector<int> &vis , int v){
+        vis[v] = 2;
+        for(auto neigh : adj[v]){
+            if(vis[neigh] == 2) return true;
+            else if(!vis[neigh] && isCycle(adj,vis,neigh) == true) return true; 
         }
-
-        parent[v] = 0; 
+        vis[v] = 1;
         return false;
     }
-
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<vector<int>> adj(numCourses);
-        for (auto &p : prerequisites) {
-            adj[p[1]].push_back(p[0]);  
+        vector<int> vis(numCourses,0);
+        for(auto prereq : prerequisites){
+            adj[prereq[0]].push_back(prereq[1]);
         }
 
-        vector<int> vis(numCourses, 0);
-        vector<int> parent(numCourses, 0); 
-
-        for (int i = 0; i < numCourses; ++i) {
-            if (!vis[i]) {
-                vis[i] = 1;
-                if (doesCycleExist(adj, vis, i, parent)) {
-                    return false;       
-                }
-            }
+        for(int i=0;i<numCourses;i++){
+            if(!vis[i] && isCycle(adj,vis,i)) return false; 
         }
-        return true; 
+        return true;        
     }
+
 };
