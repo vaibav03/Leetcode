@@ -12,13 +12,24 @@ int solve(vector<int> &arr,map<pair<int,int>, int> &maxi,int i ,int j,vector<vec
     int mctFromLeafValues(vector<int>& arr) {
         map<pair<int,int>, int> maxi;
         int n = arr.size();
-        vector<vector<int>> dp(n,vector<int>(n,-1));
+        vector<vector<int>> dp(n,vector<int>(n,1e9));
         for(int i=0;i<n;i++){
             maxi[{i,i}] = arr[i];
             for(int j=i+1;j<n;j++){
                 maxi[{i,j}] = max(maxi[{i,j-1}], arr[j]);
             }
         }
-        return solve(arr,maxi,0,n-1,dp);
+
+        for(int i=0;i<n;i++) dp[i][i] = 0;
+
+        for(int start = n-1;start>=0 ;start--){
+            for(int end = 0;end<n;end++){
+                if(start >= end) continue;
+                for(int k=start;k<end;k++){
+                    dp[start][end] = min(dp[start][k] + dp[k+1][end]+ maxi[{start,k}]*maxi[{k+1,end}] , dp[start][end]);
+                }
+            }
+        }
+        return dp[0][n-1];
     }
 };
