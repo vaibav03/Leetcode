@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vaibav03/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vaibav03/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/vaibav03/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vaibav03/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vaibav03/Leetcode/tree/master/0070-climbing-stairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vaibav03/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vaibav03/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vaibav03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/vaibav03/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vaibav03/Leetcode/tree/master/0062-unique-paths) |
 | [2605-count-anagrams](https://github.com/vaibav03/Leetcode/tree/master/2605-count-anagrams) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vaibav03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Trie
