@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibav03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/vaibav03/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/vaibav03/Leetcode/tree/master/2240-intervals-between-identical-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vaibav03/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2444-longest-ideal-subsequence](https://github.com/vaibav03/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2249-count-the-hidden-sequences](https://github.com/vaibav03/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibav03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vaibav03/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vaibav03/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vaibav03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibav03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2245-destroying-asteroids](https://github.com/vaibav03/Leetcode/tree/master/2245-destroying-asteroids) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vaibav03/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vaibav03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibav03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaibav03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/vaibav03/Leetcode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibav03/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/vaibav03/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/vaibav03/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vaibav03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/vaibav03/Leetcode/tree/master/2645-pass-the-pillow) |
