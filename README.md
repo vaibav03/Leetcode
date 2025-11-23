@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/vaibav03/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/vaibav03/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibav03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/vaibav03/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1559-cherry-pickup-ii](https://github.com/vaibav03/Leetcode/tree/master/1559-cherry-pickup-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/vaibav03/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/vaibav03/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibav03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibav03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/vaibav03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaibav03/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/vaibav03/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/vaibav03/Leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1252-break-a-palindrome](https://github.com/vaibav03/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibav03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/vaibav03/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vaibav03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/vaibav03/Leetcode/tree/master/0807-custom-sort-string) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibav03/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/vaibav03/Leetcode/tree/master/1129-longest-string-chain) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibav03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vaibav03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vaibav03/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
