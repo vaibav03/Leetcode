@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/vaibav03/Leetcode/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vaibav03/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vaibav03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/vaibav03/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Hash Table
 |  |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vaibav03/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vaibav03/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vaibav03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/vaibav03/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vaibav03/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -873,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vaibav03/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibav03/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vaibav03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -1231,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vaibav03/Leetcode/tree/master/0062-unique-paths) |
 | [2605-count-anagrams](https://github.com/vaibav03/Leetcode/tree/master/2605-count-anagrams) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vaibav03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vaibav03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Trie
 |  |
 | ------- |
