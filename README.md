@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/vaibav03/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibav03/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2444-longest-ideal-subsequence](https://github.com/vaibav03/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vaibav03/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vaibav03/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/vaibav03/Leetcode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibav03/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vaibav03/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/vaibav03/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibav03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/vaibav03/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vaibav03/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/vaibav03/Leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
