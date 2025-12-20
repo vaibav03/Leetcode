@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/vaibav03/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/vaibav03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/vaibav03/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-delete-columns-to-make-sorted](https://github.com/vaibav03/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/vaibav03/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/vaibav03/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vaibav03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vaibav03/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/vaibav03/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0807-custom-sort-string](https://github.com/vaibav03/Leetcode/tree/master/0807-custom-sort-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/vaibav03/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/vaibav03/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vaibav03/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/vaibav03/Leetcode/tree/master/1129-longest-string-chain) |
