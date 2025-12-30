@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vaibav03/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vaibav03/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/vaibav03/Leetcode/tree/master/0740-delete-and-earn) |
+| [0756-pyramid-transition-matrix](https://github.com/vaibav03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/vaibav03/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/vaibav03/Leetcode/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/vaibav03/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/vaibav03/Leetcode/tree/master/0476-number-complement) |
 | [0526-beautiful-arrangement](https://github.com/vaibav03/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vaibav03/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/vaibav03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vaibav03/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vaibav03/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/vaibav03/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/vaibav03/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/vaibav03/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0756-pyramid-transition-matrix](https://github.com/vaibav03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0807-custom-sort-string](https://github.com/vaibav03/Leetcode/tree/master/0807-custom-sort-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/vaibav03/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/vaibav03/Leetcode/tree/master/0952-word-subsets) |
@@ -1240,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/vaibav03/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/vaibav03/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vaibav03/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/vaibav03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/vaibav03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vaibav03/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vaibav03/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
