@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/vaibav03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/vaibav03/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaibav03/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vaibav03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibav03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1917-maximum-average-pass-ratio](https://github.com/vaibav03/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/vaibav03/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaibav03/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/vaibav03/Leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vaibav03/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
+| [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/vaibav03/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2164-two-best-non-overlapping-events](https://github.com/vaibav03/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibav03/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
