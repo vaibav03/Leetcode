@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vaibav03/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/vaibav03/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/vaibav03/Leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vaibav03/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/vaibav03/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vaibav03/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/vaibav03/Leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibav03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibav03/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vaibav03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibav03/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibav03/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/vaibav03/Leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vaibav03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
