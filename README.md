@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/vaibav03/Leetcode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibav03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/vaibav03/Leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vaibav03/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaibav03/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/vaibav03/Leetcode/tree/master/1448-maximum-69-number) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibav03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1338-reduce-array-size-to-the-half](https://github.com/vaibav03/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vaibav03/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/vaibav03/Leetcode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/vaibav03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaibav03/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
