@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/vaibav03/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vaibav03/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vaibav03/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vaibav03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/vaibav03/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vaibav03/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vaibav03/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/vaibav03/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/vaibav03/Leetcode/tree/master/1731-even-odd-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vaibav03/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vaibav03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1001,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-even-odd-tree](https://github.com/vaibav03/Leetcode/tree/master/1731-even-odd-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vaibav03/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
