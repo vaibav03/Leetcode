@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/vaibav03/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibav03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/vaibav03/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibav03/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/vaibav03/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/vaibav03/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaibav03/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1428-jump-game-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/vaibav03/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/vaibav03/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/vaibav03/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
