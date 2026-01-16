@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/vaibav03/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/vaibav03/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vaibav03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vaibav03/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/vaibav03/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/vaibav03/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/vaibav03/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vaibav03/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaibav03/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vaibav03/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/vaibav03/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vaibav03/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/vaibav03/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/vaibav03/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vaibav03/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
