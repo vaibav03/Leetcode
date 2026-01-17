@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vaibav03/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/vaibav03/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/vaibav03/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/vaibav03/Leetcode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/vaibav03/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vaibav03/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/vaibav03/Leetcode/tree/master/0279-perfect-squares) |
@@ -1353,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vaibav03/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/vaibav03/Leetcode/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibav03/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibav03/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vaibav03/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
