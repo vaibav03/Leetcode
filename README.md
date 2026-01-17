@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/vaibav03/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibav03/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vaibav03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/vaibav03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3374-count-alternating-subarrays](https://github.com/vaibav03/Leetcode/tree/master/3374-count-alternating-subarrays) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibav03/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibav03/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibav03/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/vaibav03/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -1352,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vaibav03/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/vaibav03/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibav03/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vaibav03/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Quickselect
 |  |
