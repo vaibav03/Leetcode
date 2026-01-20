@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vaibav03/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vaibav03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vaibav03/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3321-type-of-triangle](https://github.com/vaibav03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vaibav03/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/vaibav03/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vaibav03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vaibav03/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vaibav03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3394-minimum-array-end](https://github.com/vaibav03/Leetcode/tree/master/3394-minimum-array-end) |
