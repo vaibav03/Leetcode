@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/vaibav03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vaibav03/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vaibav03/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3321-type-of-triangle](https://github.com/vaibav03/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/vaibav03/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/vaibav03/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vaibav03/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vaibav03/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vaibav03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3394-minimum-array-end](https://github.com/vaibav03/Leetcode/tree/master/3394-minimum-array-end) |
