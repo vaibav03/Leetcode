@@ -1,25 +1,21 @@
 class MagicDictionary {
 public:
-    unordered_set<string> dict;
+    unordered_map<string,int> dict;
 
     void buildDict(vector<string> dictionary) {
-        for (auto &s : dictionary) {
-            dict.insert(s);
-        }
+        for(auto x : dictionary){ dict[x]++; }
     }
 
     bool search(string searchWord) {
-        int n = searchWord.size();
-        for (int i = 0; i < n; i++) {
-            char original = searchWord[i];
-            for (char c = 'a'; c <= 'z'; c++) {
-                if (c == original) continue;
-                searchWord[i] = c;
-                if (dict.find(searchWord) != dict.end())
-                    return true;
-            }
-            searchWord[i] = original;
-        }
-        return false;
+        for(int i=0;i<searchWord.length();i++){ 
+            int original = searchWord[i]; 
+            for(int j=0;j<26;j++){ 
+               searchWord[i] = (char) 'a' + j ; 
+                if(searchWord[i] != original && dict.find(searchWord)!=dict.end() ) 
+                return true;
+             } 
+             searchWord[i] = original;
+        } 
+    return false;
     }
 };
