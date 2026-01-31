@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibav03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/vaibav03/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibav03/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3351-sum-of-good-subsequences](https://github.com/vaibav03/Leetcode/tree/master/3351-sum-of-good-subsequences) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibav03/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibav03/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/vaibav03/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/vaibav03/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vaibav03/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/vaibav03/Leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
