@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/vaibav03/Leetcode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/vaibav03/Leetcode/tree/master/0741-cherry-pickup) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vaibav03/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/vaibav03/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/vaibav03/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/vaibav03/Leetcode/tree/master/0794-swim-in-rising-water) |
@@ -1229,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vaibav03/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vaibav03/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/vaibav03/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vaibav03/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/vaibav03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vaibav03/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
