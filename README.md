@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibav03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibav03/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
 | [3351-sum-of-good-subsequences](https://github.com/vaibav03/Leetcode/tree/master/3351-sum-of-good-subsequences) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vaibav03/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibav03/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibav03/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/vaibav03/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vaibav03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vaibav03/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
