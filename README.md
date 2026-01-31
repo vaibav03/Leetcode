@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vaibav03/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/vaibav03/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/vaibav03/Leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibav03/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibav03/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/vaibav03/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/vaibav03/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/vaibav03/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vaibav03/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
+| [3148-maximum-difference-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vaibav03/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
