@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vaibav03/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vaibav03/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vaibav03/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/vaibav03/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2998-count-symmetric-integers](https://github.com/vaibav03/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vaibav03/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vaibav03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/vaibav03/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/vaibav03/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vaibav03/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/vaibav03/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/vaibav03/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibav03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
