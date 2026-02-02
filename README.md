@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/vaibav03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibav03/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1711-count-good-meals](https://github.com/vaibav03/Leetcode/tree/master/1711-count-good-meals) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibav03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vaibav03/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vaibav03/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1711-count-good-meals](https://github.com/vaibav03/Leetcode/tree/master/1711-count-good-meals) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/vaibav03/Leetcode/tree/master/1803-average-waiting-time) |
