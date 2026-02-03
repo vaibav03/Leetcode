@@ -1,22 +1,27 @@
 class Solution {
 
 public:
-    bool solve(string s,int l,int r,vector<vector<int>>& dp){
-        if(dp[l][r]!=-1) return dp[l][r];
-        if(l>=r) return dp[l][r] = true;
-    
-        if(s[l] == s[r]) return dp[l][r] = solve(s,l+1,r-1,dp);
-        else return false;
+   // vector<int> vis()
+    int rec(string s, int ind){
+        int l = ind , r = ind ;
+        int ans{};
+        while(l>=0 && r <s.size() && s[l]==s[r]){
+            l--;
+            r++;
+            ans++;
+        }
+            l = ind - 1, r = ind;
+            while(l>=0 && r <s.size() && s[l]==s[r]){
+            l--;
+            r++;
+            ans++;
+        }
+        return ans;
     }
     int countSubstrings(string s) {
         int n = s.size(),ans{};
-        vector<vector<int>> dp(n,vector<int> (n,-1));
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(solve(s,i,j,dp)){
-                    ans++;
-                }
-            }
+        for(int ct = 0;ct<s.size();ct++){
+            ans+= rec(s,ct);
         }
         return ans;
     }
