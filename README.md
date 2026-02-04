@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-longest-ideal-subsequence](https://github.com/vaibav03/Leetcode/tree/master/2444-longest-ideal-subsequence) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vaibav03/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/vaibav03/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/vaibav03/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/vaibav03/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/vaibav03/Leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/vaibav03/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/vaibav03/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vaibav03/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vaibav03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Array
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/vaibav03/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibav03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/vaibav03/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/vaibav03/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/vaibav03/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vaibav03/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/vaibav03/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
