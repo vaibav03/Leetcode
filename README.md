@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vaibav03/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vaibav03/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vaibav03/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/vaibav03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vaibav03/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vaibav03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vaibav03/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/vaibav03/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vaibav03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vaibav03/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/vaibav03/Leetcode/tree/master/3451-string-compression-iii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vaibav03/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vaibav03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vaibav03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vaibav03/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Brainteaser
@@ -1241,6 +1244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/vaibav03/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vaibav03/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/vaibav03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vaibav03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Divide and Conquer
 |  |
