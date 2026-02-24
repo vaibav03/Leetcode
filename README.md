@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibav03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/vaibav03/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/vaibav03/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibav03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/vaibav03/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vaibav03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1120,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/vaibav03/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/vaibav03/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/vaibav03/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
