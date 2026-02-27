@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vaibav03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vaibav03/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/vaibav03/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Hash Table
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/vaibav03/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vaibav03/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/vaibav03/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -1055,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/vaibav03/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/vaibav03/Leetcode/tree/master/3451-string-compression-iii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/vaibav03/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/vaibav03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/vaibav03/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1391,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vaibav03/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2868-continuous-subarrays](https://github.com/vaibav03/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/vaibav03/Leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaibav03/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Shortest Path
 |  |
@@ -1535,4 +1539,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaibav03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/vaibav03/Leetcode/tree/master/0695-max-area-of-island) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
