@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibav03/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/vaibav03/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/vaibav03/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/vaibav03/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vaibav03/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/vaibav03/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/vaibav03/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vaibav03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/vaibav03/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1215,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/vaibav03/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/vaibav03/Leetcode/tree/master/1803-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/vaibav03/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/vaibav03/Leetcode/tree/master/2169-simple-bank-system) |
