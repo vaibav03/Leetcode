@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibav03/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/vaibav03/Leetcode/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1711-count-good-meals](https://github.com/vaibav03/Leetcode/tree/master/1711-count-good-meals) |
+| [1980-find-unique-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/vaibav03/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibav03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vaibav03/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/vaibav03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/vaibav03/Leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/vaibav03/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vaibav03/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/vaibav03/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/vaibav03/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vaibav03/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibav03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1980-find-unique-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vaibav03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/vaibav03/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1475,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/vaibav03/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/vaibav03/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/vaibav03/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/vaibav03/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
