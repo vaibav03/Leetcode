@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vaibav03/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vaibav03/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vaibav03/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vaibav03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/vaibav03/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibav03/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vaibav03/Leetcode/tree/master/0057-insert-interval) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vaibav03/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/vaibav03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/vaibav03/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vaibav03/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vaibav03/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -1265,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vaibav03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/vaibav03/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
