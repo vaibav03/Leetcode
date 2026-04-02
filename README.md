@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-sum-of-good-subsequences](https://github.com/vaibav03/Leetcode/tree/master/3351-sum-of-good-subsequences) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vaibav03/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vaibav03/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3654-minimum-array-sum](https://github.com/vaibav03/Leetcode/tree/master/3654-minimum-array-sum) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vaibav03/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vaibav03/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vaibav03/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3430-count-days-without-meetings](https://github.com/vaibav03/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vaibav03/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vaibav03/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vaibav03/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vaibav03/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
