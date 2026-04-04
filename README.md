@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vaibav03/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3654-minimum-array-sum](https://github.com/vaibav03/Leetcode/tree/master/3654-minimum-array-sum) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vaibav03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3654-minimum-array-sum](https://github.com/vaibav03/Leetcode/tree/master/3654-minimum-array-sum) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/vaibav03/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vaibav03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vaibav03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/vaibav03/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vaibav03/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vaibav03/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vaibav03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/vaibav03/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/vaibav03/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vaibav03/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -1419,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/vaibav03/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vaibav03/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/vaibav03/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/vaibav03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/vaibav03/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3908-minimum-time-for-k-connected-components](https://github.com/vaibav03/Leetcode/tree/master/3908-minimum-time-for-k-connected-components) |
 ## Database
