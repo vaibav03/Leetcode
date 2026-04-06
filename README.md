@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/vaibav03/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/vaibav03/Leetcode/tree/master/0807-custom-sort-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/vaibav03/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/vaibav03/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/vaibav03/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/vaibav03/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vaibav03/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/vaibav03/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/vaibav03/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/vaibav03/Leetcode/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/vaibav03/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/vaibav03/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/vaibav03/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/vaibav03/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/vaibav03/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/vaibav03/Leetcode/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/vaibav03/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/vaibav03/Leetcode/tree/master/1803-average-waiting-time) |
