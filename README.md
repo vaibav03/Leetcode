@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/vaibav03/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/vaibav03/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3783-mirror-distance-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vaibav03/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
