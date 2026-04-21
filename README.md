@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vaibav03/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-count-good-meals](https://github.com/vaibav03/Leetcode/tree/master/1711-count-good-meals) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vaibav03/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vaibav03/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1803-average-waiting-time](https://github.com/vaibav03/Leetcode/tree/master/1803-average-waiting-time) |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/vaibav03/Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/vaibav03/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/vaibav03/Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vaibav03/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/vaibav03/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2035-count-sub-islands](https://github.com/vaibav03/Leetcode/tree/master/2035-count-sub-islands) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/vaibav03/Leetcode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -1640,5 +1642,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaibav03/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/vaibav03/Leetcode/tree/master/0695-max-area-of-island) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/vaibav03/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
