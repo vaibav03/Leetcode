@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibav03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/vaibav03/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2605-count-anagrams](https://github.com/vaibav03/Leetcode/tree/master/2605-count-anagrams) |
+| [2615-sum-of-distances](https://github.com/vaibav03/Leetcode/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vaibav03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/vaibav03/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibav03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vaibav03/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2615-sum-of-distances](https://github.com/vaibav03/Leetcode/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/vaibav03/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vaibav03/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/vaibav03/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/vaibav03/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vaibav03/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [2615-sum-of-distances](https://github.com/vaibav03/Leetcode/tree/master/2615-sum-of-distances) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vaibav03/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vaibav03/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
