@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3148-maximum-difference-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/vaibav03/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/vaibav03/Leetcode/tree/master/3192-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/vaibav03/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/vaibav03/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-sum-of-good-subsequences](https://github.com/vaibav03/Leetcode/tree/master/3351-sum-of-good-subsequences) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vaibav03/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibav03/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3225-maximum-score-from-grid-operations](https://github.com/vaibav03/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/vaibav03/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/vaibav03/Leetcode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vaibav03/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vaibav03/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/vaibav03/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/vaibav03/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/vaibav03/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/vaibav03/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/vaibav03/Leetcode/tree/master/3031-construct-product-matrix) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/vaibav03/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/vaibav03/Leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/vaibav03/Leetcode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/vaibav03/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vaibav03/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
