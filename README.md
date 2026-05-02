@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/vaibav03/Leetcode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/vaibav03/Leetcode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/vaibav03/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/vaibav03/Leetcode/tree/master/0788-rotated-digits) |
 | [0875-longest-mountain-in-array](https://github.com/vaibav03/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/vaibav03/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vaibav03/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/vaibav03/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0650-2-keys-keyboard](https://github.com/vaibav03/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0788-rotated-digits](https://github.com/vaibav03/Leetcode/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/vaibav03/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/vaibav03/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/vaibav03/Leetcode/tree/master/0909-stone-game) |
