@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vaibav03/Leetcode/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/vaibav03/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibav03/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vaibav03/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/vaibav03/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1522-stone-game-iii](https://github.com/vaibav03/Leetcode/tree/master/1522-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibav03/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1116,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/vaibav03/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/vaibav03/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vaibav03/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/vaibav03/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/vaibav03/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vaibav03/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1502-construct-k-palindrome-strings](https://github.com/vaibav03/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
