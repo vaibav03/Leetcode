@@ -1133,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibav03/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1980-find-unique-binary-string](https://github.com/vaibav03/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/vaibav03/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vaibav03/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibav03/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/vaibav03/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/vaibav03/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -1338,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1803-average-waiting-time](https://github.com/vaibav03/Leetcode/tree/master/1803-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/vaibav03/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/vaibav03/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2169-simple-bank-system](https://github.com/vaibav03/Leetcode/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/vaibav03/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/vaibav03/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
