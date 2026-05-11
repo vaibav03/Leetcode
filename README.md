@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/vaibav03/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibav03/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vaibav03/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/vaibav03/Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2615-sum-of-distances](https://github.com/vaibav03/Leetcode/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/vaibav03/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1352,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vaibav03/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/vaibav03/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vaibav03/Leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vaibav03/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/vaibav03/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/vaibav03/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vaibav03/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
