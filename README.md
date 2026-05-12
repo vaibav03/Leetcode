@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vaibav03/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/vaibav03/Leetcode/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vaibav03/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vaibav03/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vaibav03/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibav03/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vaibav03/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1612-avoid-flood-in-the-city](https://github.com/vaibav03/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/vaibav03/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vaibav03/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vaibav03/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/vaibav03/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/vaibav03/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/vaibav03/Leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vaibav03/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/vaibav03/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/vaibav03/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibav03/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1771-sell-diminishing-valued-colored-balls](https://github.com/vaibav03/Leetcode/tree/master/1771-sell-diminishing-valued-colored-balls) |
