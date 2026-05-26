@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/vaibav03/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/vaibav03/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/vaibav03/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vaibav03/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/vaibav03/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibav03/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/vaibav03/Leetcode/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vaibav03/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/vaibav03/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/vaibav03/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vaibav03/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/vaibav03/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3317-maximum-palindromes-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3317-maximum-palindromes-after-operations) |
