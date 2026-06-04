@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/vaibav03/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vaibav03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vaibav03/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/vaibav03/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/vaibav03/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/vaibav03/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vaibav03/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/vaibav03/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vaibav03/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/vaibav03/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/vaibav03/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vaibav03/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/vaibav03/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/vaibav03/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/vaibav03/Leetcode/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Number Theory
 |  |
