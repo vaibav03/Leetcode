@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/vaibav03/Leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/vaibav03/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vaibav03/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vaibav03/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vaibav03/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/vaibav03/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/vaibav03/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/vaibav03/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vaibav03/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/vaibav03/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vaibav03/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/vaibav03/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/vaibav03/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/vaibav03/Leetcode/tree/master/4078-maximum-alternating-sum-of-squares) |
