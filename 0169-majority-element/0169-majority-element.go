@@ -1,4 +1,5 @@
 import "fmt"
+import "math"
 func majorityElement(nums []int) int {
     mape := make(map[int]int)
     for i := range nums{
@@ -7,7 +8,7 @@ func majorityElement(nums []int) int {
 
     for i,j := range mape {
         fmt.Println(i,j)
-        if j >= (len(nums) + 1)/2{
+        if j >= int(math.Ceil( float64(len(nums))/2.0)){
             return i
         }
     }
